@@ -1,2 +1,0 @@
-# O-uz
-Hesap Makinası 
